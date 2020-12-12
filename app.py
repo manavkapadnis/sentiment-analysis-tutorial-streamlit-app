@@ -26,7 +26,6 @@ st.subheader("This application will show different parts of sentiment analysis :
 st.markdown("1. Tokenization And Stopwords Removal\n")
 st.markdown("2. Stemming And Lemmatization\n")
 st.markdown("3. Feature Extraction And Implementing Different Classifiers\n")
-st.subheader("Note: In order to use the third task we need to enter at least ten sentences(try copying a paragraph from wikipedia)")
 
 st.sidebar.subheader('About the Creator:')
 st.sidebar.markdown('Manav Nitin Kapadnis')
